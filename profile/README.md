@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="/branding/svg/wordmark.svg">
+  <img src="/wordmark-shadow.svg" width="100%">
 </p>
